@@ -94,3 +94,11 @@ The issue was traced to Windows using an incorrect IPv6 DNS resolver. After corr
 * Explore remote administration tools.
 * Practice additional account troubleshooting scenarios.
 * Add more documentation and screenshots.
+
+  ## Lab Screenshots
+  
+
+View screenshots demonstrating successful domain controller discovery,
+Windows network file sharing, and Active Directory administration.
+
+[View My Active Directory Lab Screenshots](https://docs.google.com/document/d/1Qo91nNxGr7kCygrg08TIo5qTCDi-hDxRq8wpreAoILw/edit?tab=t.0)
